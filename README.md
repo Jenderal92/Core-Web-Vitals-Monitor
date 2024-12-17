@@ -1,5 +1,8 @@
 # Core Web Vitals Monitor
 
+![core-web-vitals-monitor Jenderal92](https://github.com/user-attachments/assets/23c8445d-f118-4275-818f-5595cdfd4868)
+
+
 This tool is designed to monitor Core Web Vitals of a URL in real-time. Using data from the **Google PageSpeed Insights API** (Lighthouse), it tracks key metrics: **Largest Contentful Paint (LCP)**, **First Input Delay (FID)**, and **Cumulative Layout Shift (CLS)**.
 
 ## Features
