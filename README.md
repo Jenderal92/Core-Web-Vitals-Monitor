@@ -14,7 +14,7 @@ This tool is designed to monitor Core Web Vitals of a URL in real-time. Using da
 
 ## Requirements
 
-- Python 2.7 (Python 3.x is recommended)
+- Python 2.7
 - Python libraries:
   - `requests` - to make HTTP requests to the Google PageSpeed Insights API.
   - `tabulate` - to display results in a table format.
